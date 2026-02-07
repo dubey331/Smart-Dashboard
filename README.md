@@ -59,7 +59,7 @@ The STM32 utilizes FreeRTOS to manage concurrent tasks with deterministic timing
 *The DWIN Display showing real-time Car Speed and Battery status.*
 
 * **Data Accuracy**: Successfully acquired RPM, speed, temperature, and battery State of Charge (SOC).
-* [**Reliability**: Established robust CAN communication between STM32 and ESP32.
+* **Reliability**: Established robust CAN communication between STM32 and ESP32.
 * **Cloud Connectivity**: Continuous data logging to AWS IoT via MQTT over Wi-Fi.
 
 ---
