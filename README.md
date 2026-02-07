@@ -55,7 +55,7 @@ The STM32 utilizes FreeRTOS to manage concurrent tasks with deterministic timing
 ---
 
 ## 📈 Project Results
-![Dashboard UI](01.JPG)
+![Dashboard UI](output.png)
 *The DWIN Display showing real-time Car Speed and Battery status.*
 
 * **Data Accuracy**: Successfully acquired RPM, speed, temperature, and battery State of Charge (SOC).
