@@ -1,4 +1,4 @@
-# Smart Car Dashboard System
+# Smart Dashboard System
 
 [cite_start]This project presents the design and implementation of a **Smart Car Dashboard System** based on an embedded real-time architecture using an **STM32F407VGT6** microcontroller running **FreeRTOS**[cite: 8, 23]. [cite_start]The system monitors critical vehicle parameters and transmits data over a **Controller Area Network (CAN)** bus to an **ESP32 gateway** for cloud integration and visualization[cite: 9, 11].
 
