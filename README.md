@@ -66,9 +66,5 @@ The STM32 utilizes FreeRTOS to manage concurrent tasks with deterministic timing
 
 ## 📜 Authors (C-DAC, Pune)
 * **Akash Dubey** 
-* **Allu Taraka Rama Sai Aravind**
-* **Bhavesh Chandrashekhar Satkar** 
-* **Nadarge Shivam Santosh**
-* **Sambaladeevi Gowtham**
 
 **Guided by:** Mr. Shreepad Deshpande
